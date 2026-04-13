@@ -1,4 +1,4 @@
-# Android Sample App
+# Crypto Price Tracker Android App
 
 This project is a simple Android application developed using Kotlin.
 
